@@ -1,6 +1,7 @@
 # ft_linear_regression | 42KL
 
 This project aims to introduce the concept of gradient descent which is an important optimisation algorithm used in the Machine Learning field. The Gradient Descent method is used to solve for the line of best fit of a simple linear regression based on small dataset of price of cars vs mileage (which is included in the repo).
+
 The gradient descent algorithm can be optimised further using line search (not implemented in the project).  
 The project is coded in Python together with Matplotlib.py and Numpy. The concepts are further illustrated in Jupyter Lab (file is also attached in repo).
 
