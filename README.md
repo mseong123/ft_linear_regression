@@ -20,4 +20,7 @@ pip install jupyterlab
 jupyter lab
 ```
 
-In web interface, open notebook (ft_linear_regression.ipynb) and run the cells.
+In web interface, open notebook (ft_linear_regression.ipynb) and run the cells. The notebook will provide visualisation to the gradient descent algorithm in action in particular:
+* Animation of the individual cost functions derivatives w.r.t each coefficient alongside the steps taken to reach the optimum solution.
+* The number of steps taken for the associated learning rate.
+* a 3D wireframe showing update of the GD for both coefficient at the same time. 
