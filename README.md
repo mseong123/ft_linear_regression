@@ -12,7 +12,7 @@ See [`Subject PDF`](https://github.com/mseong123/ft_linear_regression/blob/maste
 python train.py
 python prediction.py
 ```
-The program will prompt for an input (mileage) which will then output the predicted price of car based on the regression mode including a scatterplot showing the results and the precision of the model (R-square and Root Mean Square Deviation)
+`python train.py` will train the regression model based on the dataset(data.csv). `python prediction` will then execute the program and prompt for an input (mileage) which will then output the predicted price of car based on the regression mode including a scatterplot showing the results and the precision of the model (R-square and Root Mean Square Deviation)
 
 ## To install jupyter lab
 ```
