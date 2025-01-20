@@ -14,6 +14,16 @@ python prediction.py
 ```
 `python train.py` will train the regression model based on the dataset(data.csv). `python prediction` will then execute the program and prompt for an input (mileage) which will then output the predicted price of car based on the regression mode including a scatterplot showing the results and the precision of the model (R-square and Root Mean Square Deviation)
 
+
+![Fitted Regression line on price vs mileage](https://github.com/mseong123/ft_linear_regression/blob/master/Fitted%20regression(price%20vs%20mileage).png)
+
+*Illustration 1: Fitted Regression line on price vs mileage*
+
+![Loss over iterations](https://github.com/mseong123/ft_linear_regression/blob/master/loss%20over%20iterations.png)
+
+*Illustration 2: Loss over iterations*
+
+
 ## To install jupyter lab
 ```
 pip install jupyterlab
